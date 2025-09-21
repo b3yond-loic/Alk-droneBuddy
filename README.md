@@ -36,6 +36,6 @@ Projet actuellement en développement solo. Contributions, idées et collaborati
 Contact : [cerqueira.loic88@gmail.com]
 
 ## 📌 Notes
-DroneBuddy fait partie de **l’univers Alkemia**, regroupant plusieurs projets innovants :  
-- Alkemia Robotic Box (appli de contrôle robotique)  
-- Alkemia Messenger (messagerie avec tokens pour commerce et freelances)
+DroneBuddy fait partie de **l’univers B3yond Alkemia**, regroupant plusieurs projets innovants :  
+- Alk Robotic Box (appli de contrôle robotique)  
+- Alk Messenger (messagerie avec tokens pour commerce et freelances)

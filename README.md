@@ -35,8 +35,6 @@ L’objectif est de créer un drone intelligent qui s’accroche au sac à dos d
 Projet actuellement en développement solo. Contributions, idées et collaborations sont les bienvenues.  
 Contact : [cerqueira.loic88@gmail.com]
 
----
-
 ## 📌 Notes
 DroneBuddy fait partie de **l’univers Alkemia**, regroupant plusieurs projets innovants :  
 - Alkemia Robotic Box (appli de contrôle robotique)  
